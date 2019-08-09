@@ -1,11 +1,3 @@
-#Ignore movies
-pythonfordatascience/Week4-Pandas/movielens/ml-20m/*
-#Ignore world data
-pythonfordatascience/Week5-Visualization/world-development-indicators/*
-pythonfordatascience/Week5-Visualization/world-development-indicators.zip
-#Ignore soccerdb uncompressed
-pythonfordatascience/Week5-Visualization/soccerdb/*
-pythonfordatascience/movies/*
 pythonfordatascience/data/*
 #Ignore all sqlite
 *.sqlite
