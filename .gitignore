@@ -1,3 +1,4 @@
 pythonfordatascience/data/*
+statisticsfordatascientists/data/*
 #Ignore all sqlite
 *.sqlite
